@@ -9,4 +9,4 @@ Se ha utilizado el prefab de 3ª persona
 
 La propiedad `transform.position` nos devuelve la posición del objeto un vector de 3 dimensiones.
 ### Ejecución
-![GIF animado]([https://ejemplo.com/miarchivo.gif](https://github.com/AdrianSuarezTabares/Introduccion-a-Unity---Aula-Adrian-Suarez/blob/master/Ejecucion.gif))
+![GIF animado](https://github.com/AdrianSuarezTabares/Introduccion-a-Unity---Aula-Adrian-Suarez/blob/master/Ejecucion.gif)
